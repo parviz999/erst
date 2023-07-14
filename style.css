@@ -1,0 +1,12 @@
+h2{
+    color: indigo;
+    font-size: 30px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    color: blue;
+    font-family: fantasy;
+    font-size: 20px;
+    text-align: end;
+}
